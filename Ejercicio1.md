@@ -7,41 +7,41 @@
 
 Creo el directorio y pongo el "git init"
 
-  ![imagen](/Prueba_Rodrigo/IMG/Imagen2.1.png)
+  ![imagen](./IMG/Imagen2.1.png)
   
   Creo los dos archivos
 
-  ![imagen](/Prueba_Rodrigo/IMG/Imagen2.2.png)
+  ![imagen](./IMG/Imagen2.2.png)
 
   Los añado con "git add"
 
-  ![imagen](/Prueba_Rodrigo/IMG/Imagen2.3.png)
+  ![imagen](./IMG/Imagen2.3.png)
 
   Acabo con "git commit" para confirmar que lo he hecho
 
- ![imagen](/Prueba_Rodrigo/IMG/Imagen2.4.png)
+ ![imagen](./IMG/Imagen2.4.png)
 
 - 3. **Agrega (conecta) el repositorio local con un repositorio remoto en GitHub (usando git remote add).**
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen3.1.png)
+![imagen](./IMG/Imagen3.1.png)
 
 
 - 4.	**Sube el repositorio local a GitHub (usando git push).**
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen4.1.png)
+![imagen](./IMG/Imagen4.1.png)
 
 - 5. **Clona el repositorio remoto en tu máquina virtual Linux Debian (usando git clone)**
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen5.1.png)
+![imagen](./IMG/Imagen5.1.png)
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen5.2.png)
+![imagen](./IMG/Imagen5.2.png)
 
 - 6. **Modifica, en Windows, uno de los archivos y añade un 3º archivo de texto llamado archivo3.txt. Confirma los cambios(usando git add, git commit) y súbelos al repositorio (usando git push)** 
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen6.1.png)
+![imagen](./IMG/Imagen6.1.png)
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen6.2.png)
+![imagen](./IMG/Imagen6.2.png)
 
 - 7. **o	Actualiza la versión local del repositorio en Linux Debian (usando git pull).**
 
-![imagen](/Prueba_Rodrigo/IMG/Imagen7.1.png)
+![imagen](./IMG/Imagen7.1.png)
