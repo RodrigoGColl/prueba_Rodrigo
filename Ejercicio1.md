@@ -1,7 +1,7 @@
 # Ejercicio 1 IAW
 - 1.	**Vamos a crear un nuevo repositorio llamado prueba2_tu_nombre. Ten en cuenta lo siguiente:**
 
-  ![imagen](/Prueba_Rodrigo/IMG/Imagen1.1.png)
+  ![imagen](./IMG/Imagen1.1.png)
 
 - 2.	**En esta ocasión, crea primero el repositorio local en Windows (usando git init). El repositorio debe contener, al menos, dos archivos de texto: archivo1.txt y archivo2.txt. El contenido de ambos archivos es libre.**
 
